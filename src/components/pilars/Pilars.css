@@ -1,0 +1,42 @@
+.pilars-container {
+    display: flex;
+    background-color: white;
+    color: black;
+    height: 50vh;
+    padding: 100px 0 100px 0;
+    margin-bottom: 100vh;
+}
+
+
+.pilar-1, .pilar-2, .pilar-3   {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 33%;
+    padding: 0 100px 0 100px;
+}
+
+h3 {
+    margin-bottom: 30px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.pilar-p {
+    line-height: 1.5;
+}
+
+@media only screen and (max-width: 1377px) {
+    .pilars-container {
+        flex-direction: column;
+        padding: 0;
+        height: auto;
+    }
+
+    .pilar-1, .pilar-2, .pilar-3 {
+        width: 90%;
+        margin: 0 auto;
+        padding: 40px 20px 50px 20px;
+    }
+}
