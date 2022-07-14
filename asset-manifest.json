@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tarea_08/static/css/main.85c0d2d8.css",
+    "main.js": "/tarea_08/static/js/main.2a5ddb04.js",
+    "static/media/flores.mp4": "/tarea_08/static/media/flores.f746ef96ccd05dd2005b.mp4",
+    "index.html": "/tarea_08/index.html",
+    "main.85c0d2d8.css.map": "/tarea_08/static/css/main.85c0d2d8.css.map",
+    "main.2a5ddb04.js.map": "/tarea_08/static/js/main.2a5ddb04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c0d2d8.css",
+    "static/js/main.2a5ddb04.js"
+  ]
+}
